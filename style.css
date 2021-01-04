@@ -68,14 +68,16 @@ section{
     border-left: 7px solid;
     border-image: linear-gradient(180deg,blue, cyan);
     border-image-slice: 1;
+    margin-left: 120px;
 }
 footer p{
     text-align: center;
     font-size: 12px;
 }
 .top-img{
-    width: 300px;
-    height: 300px;
+    width: 500px;
+    height: 5git00px;
     margin: auto;
+    margin-left: 100px;
     
 }
